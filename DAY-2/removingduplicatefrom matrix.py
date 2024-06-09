@@ -1,3 +1,10 @@
+""" 
+ip: abc
+    xya
+    pqc
+s:ayccax: yes
+s:axpbbq: no since duplicate should not be there in the string"""
+
 n=int(input())
 m=[]
 for i in range(n):
