@@ -1,3 +1,5 @@
+""" here n=7 we should take range from 1 to 7 and compare that range with given list while compare if we found any missg number return thar number"""
+
 n=int(input())
 l=[0,5,3,6,7,2,1]
 '''
